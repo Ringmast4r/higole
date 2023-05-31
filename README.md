@@ -11,33 +11,6 @@
 - https://a.co/d/cUuw2CU
 - pelican 1040 (tested by Off Grid)
 
-# Xorg(NOT READY)
-## Create Higole Xorg configs
-
-Create Intel xorg config at `/etc/X11/xorg.conf.d/20-intel.conf` with the following:
-```
-Section "Device"
-  Identifier    "Intel Graphics"
-  Driver        "intel"
-EndSection
-```
-
-Create display config at `/etc/X11/xorg.conf.d/30-display.conf`
-```
-Section "Monitor"
-  Identifier    "DSI-1"
-  Option        "Rotate"            "right"
-  Option        "RandRRotation"     "on"
-EndSection
-```
-
-Create touchscreen config at `/etc/X11/xorg.conf.d/99-touchscreen.conf` with the following:
-
-
-
-
-
-
 
 # WiFi
 ## Change WiFi name back to wlan0, wlan1 
