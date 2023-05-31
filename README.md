@@ -9,6 +9,7 @@
 - https://a.co/d/iCT9XTF
 - https://a.co/d/1aHPJct
 - https://a.co/d/cUuw2CU
+- pelican 1040 (tested by Off Grid)
 
 
 
