@@ -41,8 +41,8 @@ Create touchscreen config at `/etc/X11/xorg.conf.d/99-touchscreen.conf` with the
 
 
 
-#WiFi
-##Change WiFi name back to wlan0, wlan1 
+# WiFi
+## Change WiFi name back to wlan0, wlan1 
 In recent versions of Parrot OS Linux and some other Linux distributions, the traditional naming convention for network interfaces (such as wlan0, wlan1, eth0, etc.) has been replaced by a new naming scheme called "Predictable Network Interface Names" or "Consistent Network Device Naming." This change was made to provide more consistent and predictable naming for network interfaces.
 
 Under the new naming scheme, network interfaces are assigned names based on their physical location or other characteristics. For example, the name may include information about the PCI bus, the slot number, or the MAC address of the device.
