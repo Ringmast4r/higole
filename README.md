@@ -12,7 +12,7 @@
 
 
 
-# Xorg
+# Xorg(NOT READY)
 ## Create Higole Xorg configs
 
 Create Intel xorg config at `/etc/X11/xorg.conf.d/20-intel.conf` with the following:
@@ -24,7 +24,7 @@ Section "Device"
 EndSection
 ```
 
-Create display cocnfig at `/etc/X11/xorg.conf.d/30-display.conf`
+Create display config at `/etc/X11/xorg.conf.d/30-display.conf`
 ```
 
 Section "Monitor"
