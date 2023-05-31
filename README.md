@@ -48,7 +48,7 @@ In recent versions of Parrot OS Linux and some other Linux distributions, the tr
 Under the new naming scheme, network interfaces are assigned names based on their physical location or other characteristics. For example, the name may include information about the PCI bus, the slot number, or the MAC address of the device.
 
 To determine the names of your Wi-Fi adapters or other network interfaces in Parrot OS Linux, you can use the following command:
-` ip link show '
+` ip link show
 ` ` ` 
 This command will display a list of network interfaces along with their assigned names. Look for interfaces starting with "wlan" to identify your Wi-Fi adapters.
 
@@ -69,11 +69,3 @@ The line should look something like this after adding the parameter:
 After rebooting, your network interfaces should be named using the traditional convention (e.g., wlan0, wlan1, eth0, etc.).
 
 -test by ringmast4r
-
-
-
-
-
-Regenerate response
-
-
