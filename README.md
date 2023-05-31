@@ -13,34 +13,6 @@
 
 
 
-# Xorg(NOT READY)
-## Create Higole Xorg configs
-
-Create Intel xorg config at `/etc/X11/xorg.conf.d/20-intel.conf` with the following:
-```
-
-Section "Device"
-  Identifier    "Intel Graphics"
-  Driver        "intel"
-EndSection
-```
-
-Create display config at `/etc/X11/xorg.conf.d/30-display.conf`
-```
-
-Section "Monitor"
-  Identifier    "DSI-1"
-  Option        "Rotate"            "right"
-  Option        "RandRRotation"     "on"
-EndSection
-```
-
-Create touchscreen config at `/etc/X11/xorg.conf.d/99-touchscreen.conf` with the following:
-
-
-
-
-
 # WiFi
 ## Change WiFi name back to wlan0, wlan1 
 In recent versions of Parrot OS Linux and some other Linux distributions, the traditional naming convention for network interfaces (such as wlan0, wlan1, eth0, etc.) has been replaced by a new naming scheme called "Predictable Network Interface Names" or "Consistent Network Device Naming." This change was made to provide more consistent and predictable naming for network interfaces.
