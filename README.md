@@ -30,7 +30,8 @@ Create display config at `/etc/X11/xorg.conf.d/30-display.conf`
 
 Section "Monitor"
   Identifier    "DSI-1"
-  Option        "Rotate"                 "right"
+  Option        "Rotate"            "right"
+  Option        "RandRRotation"     "on"
 EndSection
 ```
 
