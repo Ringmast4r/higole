@@ -35,14 +35,14 @@ sudo nano /etc/default/grub
 ```
 
 3. Locate the line that starts with GRUB_CMDLINE_LINUX_DEFAULT and add the following parameter:
-` net.ifnames=0` 
+``` net.ifnames=0```
 The line should look something like this after adding the parameter:
-` GRUB_CMDLINE_LINUX_DEFAULT="quiet swish net.ifnames=0"` 
+``` GRUB_CMDLINE_LINUX_DEFAULT="quiet swish net.ifnames=0"```
 4. Save the changes to the GRUB configuration file and exit the text editor.
 5. Update GRUB using the following command:
-` sudo update-grub` 
+``` sudo update-grub```
 6. Reboot your system.
-
+```sudo reboot```
 After rebooting, your network interfaces should be named using the traditional convention (e.g., wlan0, wlan1, eth0, etc.).
 
--test by ringmast4r
+-tested by ringmast4r
