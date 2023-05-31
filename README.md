@@ -58,7 +58,9 @@ If you prefer to use the traditional naming convention (e.g., wlan0, wlan1), you
 
 1. Open a terminal or command prompt.
 2. Edit the GRUB configuration file using a text editor. For example:
-```sudo nano /etc/default/grub```
+```
+sudo nano /etc/default/grub
+```
 
 3. Locate the line that starts with GRUB_CMDLINE_LINUX_DEFAULT and add the following parameter:
 ` net.ifnames=0` 
