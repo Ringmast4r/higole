@@ -12,8 +12,7 @@
 
 
 
-#Xorg
-
+# Xorg
 ## Create Higole Xorg configs
 
 Create Intel xorg config at `/etc/X11/xorg.conf.d/20-intel.conf` with the following:
