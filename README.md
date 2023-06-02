@@ -57,7 +57,8 @@ After rebooting, your network interfaces should be named using the traditional c
 
 
 
- 
+# Specifications 
+
 |   Hardware  |     Details       |
 |-------------|-------------------|
 | Display     |  5.5" 720*1280(IPS)|
@@ -67,4 +68,9 @@ After rebooting, your network interfaces should be named using the traditional c
 | Storage   |     128GB eMMC  |
 | WIFI 6.0       | Realtek 8723BS    |
 | Bluetooth 5.2   |  Realtek 8723BS   |
-| Battery     |     2500mAh  |
+| Battery     |     2500mAh LiPo |
+| Dimensions |  	142×91×19mm |
+
+
+
+
