@@ -53,3 +53,15 @@ sudo reboot
 After rebooting, your network interfaces should be named using the traditional convention (e.g., wlan0, wlan1, eth0, etc.).
 
 -tested by ringmast4r
+
+
+
+|   Hardware  |     Details       |
+|-------------|-------------------|
+|    CPU      |  Intel Celeron J4125|
+|    GPU      |  Intel HD600     |
+|   Memory   |  8GB LPDDR4       |
+| Storage   |     128GB eMMC  |
+| WIFI 6.0       | Realtek 8723BS    |
+| Bluetooth 5.2   |  Realtek 8723BS   |
+| 
