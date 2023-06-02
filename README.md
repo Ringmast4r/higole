@@ -61,7 +61,7 @@ After rebooting, your network interfaces should be named using the traditional c
 
 
 # Specifications 
-Higole Gole 1 Pro 5.5 Industrial Tablet Mini PC
+Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 
 ## Hardware
 |   Hardware  |     Details       |  
@@ -88,7 +88,7 @@ Higole Gole 1 Pro 5.5 Industrial Tablet Mini PC
 
 
 ## Working
-| Hardware | Windows 11  |   Linux  |
+| Hardware | Windows 11  |   Linux 6.0+  |
 |---------|--------------|----------|
 |         |              |          |
 |         |              |          |
