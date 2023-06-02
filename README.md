@@ -55,14 +55,16 @@ After rebooting, your network interfaces should be named using the traditional c
 -tested by ringmast4r
 
 
-# Specifications
+
+
+ 
 |   Hardware  |     Details       |
 |-------------|-------------------|
-|    CPU      |  Intel Celeron J4125|
+| Display     |  5.5" 720*1280(IPS)|
+|    CPU      |  Intel Celeron J4125| 
 |    GPU      |  Intel HD600     |
 |   Memory   |  8GB LPDDR4       |
 | Storage   |     128GB eMMC  |
 | WIFI 6.0       | Realtek 8723BS    |
 | Bluetooth 5.2   |  Realtek 8723BS   |
 | Battery     |     2500mAh  |
-| 
