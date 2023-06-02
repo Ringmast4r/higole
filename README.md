@@ -1,5 +1,9 @@
 # Gole Gang unofficial support team here to take your request
 
+
+
+
+
 # Accessories
 ## Possible case options.
 - https://a.co/d/go6dnKG
@@ -56,10 +60,11 @@ After rebooting, your network interfaces should be named using the traditional c
 
 
 
-
 # Specifications 
+Higole Gole 1 Pro 5.5 Industrial Tablet Mini PC
 
-|   Hardware  |     Details       |
+## Hardware
+|   Hardware  |     Details       |  
 |-------------|-------------------|
 | Display     |  5.5" 720*1280(IPS)|
 |    CPU      |  Intel Celeron J4125| 
@@ -70,6 +75,23 @@ After rebooting, your network interfaces should be named using the traditional c
 | Bluetooth 5.2   |  Realtek 8723BS   |
 | Battery     |     2500mAh LiPo |
 | Dimensions |  	142×91×19mm |
+
+## I/O
+|  Interface |    Details   |
+|------------|---------------|
+|   USB      |    x4 USB 3.0|
+|  SD Card Reader |   x1 (Up To 128GB) |
+|  Audio Jack |   x1 3.5mm   |
+|   HDMI     |   x1 HDMI 1.4  |
+|   RJ45    |    x1 1000Mbps GB Lan |
+| Type-C(Charging Only) | x1 Type-C 3.1 DC 12V/3A |
+
+
+## Working
+| Hardware | Windows 11  |   Linux  |
+|---------|--------------|----------|
+|         |              |          |
+|         |              |          |
 
 
 
