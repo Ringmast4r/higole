@@ -55,7 +55,7 @@ After rebooting, your network interfaces should be named using the traditional c
 -tested by ringmast4r
 
 
-
+# Specifications
 |   Hardware  |     Details       |
 |-------------|-------------------|
 |    CPU      |  Intel Celeron J4125|
@@ -64,4 +64,5 @@ After rebooting, your network interfaces should be named using the traditional c
 | Storage   |     128GB eMMC  |
 | WIFI 6.0       | Realtek 8723BS    |
 | Bluetooth 5.2   |  Realtek 8723BS   |
+| Battery     |     2500mAh  |
 | 
