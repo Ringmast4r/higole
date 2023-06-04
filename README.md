@@ -49,6 +49,17 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 
 
 # WiFi
+
+## Drivers
+Drivers for the Fn-Link 6252C-PUB Wi-Fi6 Module (Realtek RTL8852BE-CG)
+
+Windows 11: https://golerugged.com/supports/335.html
+
+Linux: https://github.com/lwfinger/rtw89 (NEEDS WORK)
+
+Open issue with driver maintainer can be found here https://github.com/lwfinger/rtw89/issues/242
+
+
 ## Change WiFi name back to wlan0, wlan1 
 In recent versions of Parrot OS Linux and some other Linux distributions, the traditional naming convention for network interfaces (such as wlan0, wlan1, eth0, etc.) has been replaced by a new naming scheme called "Predictable Network Interface Names" or "Consistent Network Device Naming." This change was made to provide more consistent and predictable naming for network interfaces.
 
