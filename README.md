@@ -51,7 +51,7 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 # WiFi
 
 ## Drivers
-Drivers for the Fn-Link 6252C-PUB Wi-Fi6 Module (Realtek RTL8852BE-CG)
+Drivers for the Fn-Link 6252C-PUB Wi-Fi6 Module (Realtek RTL8852BE)
 
 Windows 11: https://golerugged.com/supports/335.html
 
