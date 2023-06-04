@@ -1,6 +1,38 @@
 # Gole Gang unofficial support team here to take your request
 
 
+# Specifications 
+Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
+
+## Hardware
+|   Hardware  |     Details       |  
+|-------------|-------------------|
+| Display     |  5.5" 720*1280(IPS)|
+|    CPU      |  Intel Celeron J4125| 
+|    GPU      |  Intel HD600     |
+|   Memory   |  8GB LPDDR4       |
+| Storage   |     128GB eMMC  |
+| WIFI 6.0       | Realtek 8723BS    |
+| Bluetooth 5.2   |  Realtek 8723BS   |
+| Battery     |     2500mAh LiPo |
+| Dimensions |  	142×91×19mm |
+
+## I/O
+|  Interface |    Details   |
+|------------|---------------|
+|   USB      |    x4 USB 3.0|
+|  SD Card Reader |   x1 (Up To 128GB) |
+|  Audio Jack |   x1 3.5mm   |
+|   HDMI     |   x1 HDMI 1.4  |
+|   RJ45    |    x1 1000Mbps GB Lan |
+| Type-C(Charging Only) | x1 Type-C 3.1 DC 12V/3A |
+
+
+## Working
+| Hardware | Windows 11  |   Linux 6.0+  |
+|---------|--------------|----------|
+|         |              |          |
+|         |              |          |
 
 
 
@@ -60,38 +92,36 @@ After rebooting, your network interfaces should be named using the traditional c
 
 
 
-# Specifications 
-Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
-
-## Hardware
-|   Hardware  |     Details       |  
-|-------------|-------------------|
-| Display     |  5.5" 720*1280(IPS)|
-|    CPU      |  Intel Celeron J4125| 
-|    GPU      |  Intel HD600     |
-|   Memory   |  8GB LPDDR4       |
-| Storage   |     128GB eMMC  |
-| WIFI 6.0       | Realtek 8723BS    |
-| Bluetooth 5.2   |  Realtek 8723BS   |
-| Battery     |     2500mAh LiPo |
-| Dimensions |  	142×91×19mm |
-
-## I/O
-|  Interface |    Details   |
-|------------|---------------|
-|   USB      |    x4 USB 3.0|
-|  SD Card Reader |   x1 (Up To 128GB) |
-|  Audio Jack |   x1 3.5mm   |
-|   HDMI     |   x1 HDMI 1.4  |
-|   RJ45    |    x1 1000Mbps GB Lan |
-| Type-C(Charging Only) | x1 Type-C 3.1 DC 12V/3A |
 
 
-## Working
-| Hardware | Windows 11  |   Linux 6.0+  |
-|---------|--------------|----------|
-|         |              |          |
-|         |              |          |
+# Temperature Management
+While this device is built for passive cooling, running resource heavy software can still cause overheating. Here are some tips and tricks to help mitigate this issue
+
+## Using thermald (Linux Only)
+Linux thermal daemon (thermald) monitors and controls temperature in laptops, tablet PC's with the latest Intel sandy bridge and latest Intel CPU releases. Once the system temperature reaches a certain threshold, the Linux daemon activates various cooling methods to try to cool the system.
+### Instalation
+Arch:
+```
+sudo pacman -S thermald
+or
+yay -S thermald
+```
+Debian/Ubuntu:
+```
+sudo apt install thermald
+```
+### Start and Endable
+Systemd:
+```
+sudo systemctl enable thermald
+sudo systemctl start thermald
+```
+Openrc:
+(For distros using Openrc, thermald is packaged as such "thermald-openrc")
+```
+sudo rc-service thermald start
+sudo rc-update add thermald default
+```
 
 
 
