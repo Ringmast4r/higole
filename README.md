@@ -31,9 +31,10 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 ## Working
 | Hardware | Windows 11  |   Linux 6.0+  |
 |---------|--------------|----------|
-|         |              |          |
-|         |              |          |
-
+|  wifi   |  ✓           |    x     |
+|Bluetooth|   ?          |    ?     |
+|Touchscreen|  ✓         |   ✓      |
+| Sound   |    ✓         |   x      |
 
 
 # Accessories
