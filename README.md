@@ -1,6 +1,7 @@
 # Gole Gang unofficial support team here to take your request
 
 
+
 # Specifications 
 Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 
@@ -27,7 +28,6 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 |   RJ45    |    x1 1000Mbps GB Lan |
 | Type-C(Charging Only) | x1 Type-C 3.1 DC 12V/3A |
 
-
 ## Working
 | Hardware | Windows 11  |   Linux 6.0+  |
 |---------|--------------|----------|
@@ -35,7 +35,6 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 |Bluetooth|   ?          |    ?     |
 |Touchscreen|  ✓         |   ✓      |
 | Sound   |    ✓         |   x      |
-
 
 # Accessories
 ## Possible case options.
@@ -112,25 +111,27 @@ While this device is built for passive cooling, running resource heavy software 
 ## Using thermald (Linux Only)
 Linux thermal daemon (thermald) monitors and controls temperature in laptops, tablet PC's with the latest Intel sandy bridge and latest Intel CPU releases. Once the system temperature reaches a certain threshold, the Linux daemon activates various cooling methods to try to cool the system.
 ### Instalation
-Arch:
 ```
+Arch:
+
 sudo pacman -S thermald
 or
 yay -S thermald
-```
+
 Debian/Ubuntu:
-```
+
 sudo apt install thermald
 ```
 ### Start and Endable
-Systemd:
 ```
+Systemd:
+
 sudo systemctl enable thermald
 sudo systemctl start thermald
-```
+
 Openrc:
 (For distros using Openrc, thermald is packaged as such "thermald-openrc")
-```
+
 sudo rc-service thermald start
 sudo rc-update add thermald default
 ```
