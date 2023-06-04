@@ -135,7 +135,7 @@ Openrc:
 sudo rc-service thermald start
 sudo rc-update add thermald default
 ```
-
+## Hardware Hacks For Cooling
 
 
 
