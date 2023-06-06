@@ -24,7 +24,7 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 |   USB      |    x4 USB 3.0|
 |  SD Card Reader |   x1 (Up To 128GB) |
 |  Audio Jack |   x1 3.5mm   |
-|   HDMI     |   x1 HDMI 1.4  |
+|   HDMI     |   x2 HDMI 1.4  |
 |   RJ45    |    x1 1000Mbps GB Lan |
 | Type-C(Charging Only) | x1 Type-C 3.1 DC 12V/3A |
 
