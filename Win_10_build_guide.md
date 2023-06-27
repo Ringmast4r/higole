@@ -16,13 +16,13 @@ Start -> Settings -> Update & Security -> Check for Updates
 
 The wifi driver can be downloaded from the HiGole webstie here: https://golerugged.com/supports/335.html
 
-![Higole Gole1 Pro Wifi Driver](images/install_wifi_driver.png)
+![Higole Gole1 Pro Wifi Driver](images/Install_wifi_driver.png)
 
 Run setup.exe inside the Wifi folder to install the driver
 
 The missing driver for "Network Controller" should now be satisfied and removed from the list.  You can now switch from wired to wireless.
 
-![Higole Gole1 Pro Wifi Driver Installed](images/after_wifi_driver_install.png)
+![Higole Gole1 Pro Wifi Driver Installed](images/After_wifi_driver_install.png)
 
 # Sound Card Driver
 
