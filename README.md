@@ -13,8 +13,8 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 |    GPU      |  Intel HD600     |
 |   Memory   |  8GB LPDDR4       |
 | Storage   |     128GB eMMC  |
-| WIFI 6.0       | Realtek 8723BS    |
-| Bluetooth 5.2   |  Realtek 8723BS   |
+| WIFI 6.0       | Realtek RTL8852BE    |
+| Bluetooth 5.2   |  Realtek RTL8852BE  |
 | Battery     |     2500mAh LiPo |
 | Dimensions |  	142×91×19mm |
 
