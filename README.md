@@ -29,12 +29,16 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 | Type-C(Charging Only) | x1 Type-C 3.1 DC 12V/3A |
 
 ## Working
-| Hardware | Windows 11  |   Linux 6.0+  |
-|---------|--------------|----------|
-|  wifi   |  ✓           |    x     |
-|Bluetooth|   ?          |    ?     |
-|Touchscreen|  ✓         |   ✓      |
-| Sound   |    ✓         |   x      |
+| Hardware | Windows 10  | Windows 11  |   Linux 6.0+  |
+|---------|--------------|--------------|----------|
+|  wifi   |  ✓           |  ✓           |    x     |
+|Bluetooth|  ✓           |   ?          |    ?     |
+|Touchscreen|  ✓           |  ✓         |   ✓      |
+| Sound   |  ✓           |    ✓         |   x      |
+
+# Build Guides
+
+[Windows 10](Win_10_build_guide.md)
 
 # Accessories
 ## Possible case options.
