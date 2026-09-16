@@ -1,3 +1,25 @@
+<div align="center">
+
+<img width="100%" alt="HIGOLE" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F3A6F&height=220&section=header&text=HIGOLE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Windows%20%7C%20Linux%20%7C%20Markdown%20%7C%20Hardware&descSize=16&descAlignY=58"/>
+
+`Windows` `Linux` [`Markdown`](https://www.markdownguide.org/) `Hardware` - Community support resource for Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC. Hardware specs, Windows/Linux setup guides, WiFi drivers, temperature management, and compatibility documentation.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1F3A6F&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Community+support+resource+for+Higole+Gole+1+Pro+5.5%22+Industrial+Tablet...%3BWindows+%2F+Linux+%2F+Markdown+%2F+Hardware)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-higole-1F3A6F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/higole)
+[![Format](https://img.shields.io/badge/Format-Linux-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/higole/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/higole?style=flat-square&color=1F3A6F)](https://github.com/Ringmast4r/higole/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/higole?style=flat-square&color=1F3A6F)](https://github.com/Ringmast4r/higole/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/higole?style=flat-square&color=1F3A6F)](https://github.com/Ringmast4r/higole)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/higole?style=flat-square&color=1F3A6F)](https://github.com/Ringmast4r/higole/commits/main)
+
+</div>
+
+---
+
 # Gole Gang unofficial support team here to take your request
 
 
@@ -5,7 +27,8 @@
 # Specifications 
 Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 
-## Hardware
+<a id="hardware"></a>
+## `> hardware`
 |   Hardware  |     Details       |  
 |-------------|-------------------|
 | Display     |  5.5" 720*1280(IPS)|
@@ -18,7 +41,8 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 | Battery     |     2500mAh LiPo |
 | Dimensions |  	142×91×19mm |
 
-## I/O
+<a id="io"></a>
+## `> io`
 |  Interface |    Details   |
 |------------|---------------|
 |   USB      |    x4 USB 3.0|
@@ -28,7 +52,8 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 |   RJ45    |    x1 1000Mbps GB Lan |
 | Type-C(Charging Only) | x1 Type-C 3.1 DC 12V/3A |
 
-## Working
+<a id="working"></a>
+## `> working`
 | Hardware | Windows 10  | Windows 11  |   Linux 6.0+  |
 |---------|--------------|--------------|----------|
 |  wifi   |  ✓           |  ✓           |    x     |
@@ -41,7 +66,8 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 [Windows 10](Win_10_build_guide.md)
 
 # Accessories
-## Possible case options.
+<a id="possible-case-options"></a>
+## `> possible_case_options`
 - https://a.co/d/go6dnKG
 - https://a.co/d/9tBpxil
 - https://a.co/d/aZ67kRv
@@ -54,7 +80,8 @@ Higole Gole 1 Pro 5.5" Industrial Tablet Mini PC
 
 # WiFi
 
-## Drivers
+<a id="drivers"></a>
+## `> drivers`
 Drivers for the Fn-Link 6252C-PUB Wi-Fi6 Module (Realtek RTL8852BE)
 
 Windows 11: https://golerugged.com/supports/335.html
@@ -64,7 +91,8 @@ Linux: https://github.com/lwfinger/rtw89 (NEEDS WORK)
 Open issue with driver maintainer can be found here https://github.com/lwfinger/rtw89/issues/242
 
 
-## Change WiFi name back to wlan0, wlan1 
+<a id="change-wifi-name-back-to-wlan0-wlan1"></a>
+## `> change_wifi_name_back_to_wlan0_wlan1`
 In recent versions of Parrot OS Linux and some other Linux distributions, the traditional naming convention for network interfaces (such as wlan0, wlan1, eth0, etc.) has been replaced by a new naming scheme called "Predictable Network Interface Names" or "Consistent Network Device Naming." This change was made to provide more consistent and predictable naming for network interfaces.
 
 Under the new naming scheme, network interfaces are assigned names based on their physical location or other characteristics. For example, the name may include information about the PCI bus, the slot number, or the MAC address of the device.
@@ -141,6 +169,10 @@ sudo rc-update add thermald default
 ```
 ## Hardware Hacks For Cooling
 
+---
 
+<div align="center">
 
+<img width="100%" alt="HIGOLE footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A6F,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20HARDWARE&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
 
+</div>
